@@ -1,4 +1,4 @@
-# Warsztaty DevOps dla studentów
+# Warsztaty DevOps dla studentów edit
 
 ## Wymagania sprzętowe
 
